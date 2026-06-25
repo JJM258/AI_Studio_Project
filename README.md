@@ -18,4 +18,4 @@
 
 # __Acknowledgement__
 
-# Gratitude to my AI Studio Professor at my University for the theoretcal and practical application of knowledge, adn the opportunity to complete this project.
+# Gratitude to my AI Studio Professor at my University for the theoretical and practical application of knowledge, and the opportunity to complete this project.
